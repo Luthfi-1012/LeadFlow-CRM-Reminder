@@ -25,6 +25,9 @@
 
 ---
 
+### 1. n8n Workflow Pipelines
+![n8n Canvas Workflow](assets/Screenshot%202026-09-03%20182812.png)
+
 ## 📌 Problem Statement
 Micro, Small, and Medium Enterprises (MSMEs) and fast-scaling retail brands face two critical sales bottlenecks:
 
